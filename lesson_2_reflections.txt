@@ -13,3 +13,7 @@ The staging area allows you to control what files from the working you want to c
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches would be helpful to manage localization or major revisions to the program. Branches label versions of the program, allow you to preserve a stable version, while still making changes to your new version on another branch.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagram helps visualize the branch structure by documenting the relationships between the various commits, their parents and the branches. 
