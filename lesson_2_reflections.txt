@@ -17,3 +17,7 @@ Branches would be helpful to manage localization or major revisions to the progr
 How do the diagrams help you visualize the branch structure?
 
 The diagram helps visualize the branch structure by documenting the relationships between the various commits, their parents and the branches. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of merging the branches is to integrate the code of the master and the coins branches. We represent it in the diagram the way we do because in brings the two lines of work together.
