@@ -21,3 +21,7 @@ The diagram helps visualize the branch structure by documenting the relationship
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of merging the branches is to integrate the code of the master and the coins branches. We represent it in the diagram the way we do because in brings the two lines of work together.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A pro is that git's automatic merging is very fast way of doing merges. A pro of manual merges is that you will review every change in detail and know the implications. A con of git's automatic merge is that it may miss nuance. A con of manual merging is the time it takes.
