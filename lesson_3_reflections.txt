@@ -14,3 +14,7 @@ A fork is a repository in GitHub that points to a parent repository. A clone is 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit of having a copy of the last known state of the remote stored locally is to allow you the manage the changes you have made and to incorporate them into the remote at the appropriate time.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without Git and GitHub, collaboration would be much harder. Changes and files would have to be logged by hand and communication would become much more important.
